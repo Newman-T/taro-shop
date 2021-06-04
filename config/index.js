@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'myApp',
+  projectName: 'taro-shop1',
   date: '2021-6-2',
   designWidth: 750,
   deviceRatio: {

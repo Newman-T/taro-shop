@@ -1,0 +1,10 @@
+.addCut {
+  display: flex;
+  .add, .cut {
+    width: 60px;
+    height: 60px;
+  }
+  .hide {
+    display: none;
+  }
+}

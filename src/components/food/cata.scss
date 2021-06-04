@@ -1,0 +1,16 @@
+.cata {
+  display: flex;
+  flex-direction: column;
+  .cata-name {
+    display: block;
+    width: 200px;
+    height: 96px;
+    line-height: 96px;
+    text-align: center;
+    font-size: 28px;
+    color: #999;
+    &.select {
+      color: #111;
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.top{
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  z-index: 9;
+  .img {
+    margin: 0 10px;
+    width: 56px;
+    height: 56px;
+  }
+}
